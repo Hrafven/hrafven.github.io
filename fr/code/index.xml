@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code on Hugo &#34;Hrafven&#34; Bidois</title>
+    <link>https://hrafven.github.io/fr/code/</link>
+    <description>Recent content in Code on Hugo &#34;Hrafven&#34; Bidois</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 22 Jun 2018 00:12:43 +0200</lastBuildDate>
+    
+	<atom:link href="https://hrafven.github.io/fr/code/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello_world</title>
+      <link>https://hrafven.github.io/fr/code/hello_world/</link>
+      <pubDate>Fri, 22 Jun 2018 00:12:43 +0200</pubDate>
+      
+      <guid>https://hrafven.github.io/fr/code/hello_world/</guid>
+      <description>L&amp;rsquo;un des plus célèbres extraits de code utilisés pour initier les novices aux langages de programmation
+La première version connue du programme écrit par Brian Kernighan se trouve dans un tutoriel du langage B
+main(){ extrn a,b,c; putchar(a); putchar(b); putchar(c); putchar(&#39;!*n&#39;); } a &#39;hell&#39;; b &#39;o, w&#39;; c &#39;orld&#39;;  Suivi de sa version en langage C
+#include &amp;lt;stdio.h&amp;gt; main( ) { printf(&amp;quot;hello, world\n&amp;quot;); }  Et écrit dans la même langage que l&amp;rsquo;univers (Source)</description>
+    </item>
+    
+  </channel>
+</rss>

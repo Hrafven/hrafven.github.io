@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Hugo &#34;Hrafven&#34; Bidois</title>
+    <link>https://hrafven.github.io/fr/blog/</link>
+    <description>Recent content in Blog on Hugo &#34;Hrafven&#34; Bidois</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 22 Jun 2018 00:03:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://hrafven.github.io/fr/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bienvenue</title>
+      <link>https://hrafven.github.io/fr/blog/bienvenue/</link>
+      <pubDate>Fri, 22 Jun 2018 00:03:09 +0200</pubDate>
+      
+      <guid>https://hrafven.github.io/fr/blog/bienvenue/</guid>
+      <description>Bonjour, je m&amp;rsquo;appelle Hugo Bidois, alias &amp;ldquo;Hrafven&amp;rdquo;.
+Je suis un développeur de stack complet dans les technologies web, mobile et iot.
+Sur mon site web, vous trouverez des articles sur les technologies, les langages de programmation et les projets sur lesquels je travaille. Vous trouverez également des morceaux de code intéressants avec leur analyse dans la section CODE.
+La coutume veut que le premier morceau de code écrit soit un programme hello world.</description>
+    </item>
+    
+  </channel>
+</rss>
