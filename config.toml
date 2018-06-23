@@ -14,44 +14,67 @@ pluralizelisttitles = false
 googleAnalytics     = "UA-121209544-1"
 
 [permalinks]
-blog  = "blog/:slug/"
+    blog  = "blog/:slug/"
 
-[[menu.main]]
-name                   = "Blog"
-weight                 = -120
-identifier             = "blog"
-url                    = "/blog/"
+[languages]
 
-[[menu.main]]
-name                   = "About"
-weight                 = -100
-identifier             = "about"
-url                    = "/about/"
+    [languages.en]
+        [[languages.en.menu.main]]
+            name                   = "Blog"
+            weight                 = -120
+            identifier             = "blog"
+            url                    = "/blog/"
 
-[[menu.main]]
-name                   = "Code"
-weight                 = -110
-identifier             = "code"
-url                    = "/code/"
+        [[languages.en.menu.main]]
+            name                   = "About"
+            weight                 = -100
+            identifier             = "about"
+            url                    = "/about/"
+
+        [[languages.en.menu.main]]
+            name                   = "Code"
+            weight                 = -110
+            identifier             = "code"
+            url                    = "/code/"
+        [languages.en.params]
+            description             = "Hugo \"Hrafven\" Bidois | Full-Stack development - Web - Mobile - IoT"
+            selfintro               = "Full stack developer, Web, Mobile, IOT"
+    [languages.fr]
+        [[languages.fr.menu.main]]
+            name                   = "Blog"
+            weight                 = -120
+            identifier             = "blog"
+            url                    = "/fr/blog/"
+
+        [[languages.fr.menu.main]]
+            name                   = "À Propos"
+            weight                 = -100
+            identifier             = "about"
+            url                    = "/fr/about/"
+
+        [[languages.fr.menu.main]]
+            name                   = "Code"
+            weight                 = -110
+            identifier             = "code"
+            url                    = "/fr/code/"
+        [languages.fr.params]
+            description     = "Hugo \"Hrafven\" Bidois | Développement Full-Stack - Web - Mobile - IoT"
+            selfintro       = "Développeur Full stack, Web, Mobile, IOT"
 
 [params]
-include_rss            = true
-latestpostscount       = 5
-i18n_flags             = true
-author                 = "Hugo \"Hrafven\" Bidois"
-cachebuster            = true
-dateform               = "Jan 2, 2006"
-dateformfull           = "Mon Jan 2 2006 15:04:05 MST"
-description            = "Hugo \"Hrafven\" Bidois personal website | Full-Stack development - Web - Mobile - IoT"
-email                  = "hrafven@gmail.com"
-extracssfiles          = [ "/css/override.css" ]
-faviconfile            = "img/favicon.ico"
-github                 = "//github.com/Hrafven"
-lang                   = "en"
-selfintro              = "Full stack developer, Web, Mobile, IOT"
-
-highlightjs            = true
-highlightjslanguages = ["lisp"]
-highlightjsStyle     = "googlecode"
-
-avatar                 = "img/avatar.png"
+    include_rss             = true
+    latestpostscount        = 5
+    i18n_flags              = true
+    author                  = "Hugo \"Hrafven\" Bidois"
+    cachebuster             = true
+    dateform                = "Jan 2, 2006"
+    dateformfull            = "Mon Jan 2 2006 15:04:05 MST"
+    email                   = "hrafven@gmail.com"
+    extracssfiles           = [ "/css/override.css" ]
+    faviconfile             = "img/favicon.ico"
+    github                  = "//github.com/Hrafven"
+    lang                    = "en"
+    highlightjs             = true
+    highlightjslanguages    = ["lisp"]
+    highlightjsStyle        = "googlecode"
+    avatar                  = "img/avatar.png"

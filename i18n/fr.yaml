@@ -1,0 +1,20 @@
+---
+- id: latestPosts
+  translation: "Dernières publications"
+
+- id: blogHeading
+  translation: "Blog"
+
+- id: pageNotFound
+  translation: "Désolé, cette page n'existe pas."
+
+- id: visitHomePage
+  translation: "Visiter la page d'accueil"
+
+- id: readingTime
+  translation:
+    one: "Lecture d'une minute"
+    other: "Lecture de {{ .Count }} minutes"
+
+- id: backToPosts
+  translation: "Retour aux publications"
