@@ -24,13 +24,13 @@ url                    = "/blog/"
 
 [[menu.main]]
 name                   = "About"
-weight                 = -110
+weight                 = -100
 identifier             = "about"
 url                    = "/about/"
 
 [[menu.main]]
 name                   = "Code"
-weight                 = -100
+weight                 = -110
 identifier             = "code"
 url                    = "/code/"
 
@@ -44,6 +44,7 @@ dateform               = "Jan 2, 2006"
 dateformfull           = "Mon Jan 2 2006 15:04:05 MST"
 description            = "Hugo \"Hrafven\" Bidois personal website | Full-Stack development - Web - Mobile - IoT"
 email                  = "hrafven@gmail.com"
+extracssfiles          = [ "/css/override.css" ]
 faviconfile            = "img/favicon.ico"
 github                 = "//github.com/Hrafven"
 lang                   = "en"
