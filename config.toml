@@ -2,7 +2,6 @@ baseurl             = "https://hrafven.github.io/"
 builddrafts         = false
 canonifyurls        = true
 contentdir          = "content"
-languageCode        = "en-US"
 layoutdir           = "layouts"
 publishdir          = "docs"
 theme               = "cocoa"
@@ -18,6 +17,7 @@ googleAnalytics     = "UA-121209544-1"
 [languages]
 
     [languages.en]
+        languageCode        = "en-US"
         disqusshortname     = "hrafven"
         [[languages.en.menu.main]]
             name                   = "Blog"
@@ -37,9 +37,11 @@ googleAnalytics     = "UA-121209544-1"
             identifier             = "code"
             url                    = "/code/"
         [languages.en.params]
+            lang                    = "en"
             description             = "Hugo \"Hrafven\" Bidois | Full-Stack development - Web - Mobile - IoT"
             selfintro               = "Full stack developer, Web, Mobile, IOT"
     [languages.fr]
+        languageCode        = "fr-FR"
         disqusshortname     = "hrafvenfr"
         [[languages.fr.menu.main]]
             name                   = "Blog"
@@ -59,6 +61,7 @@ googleAnalytics     = "UA-121209544-1"
             identifier             = "code"
             url                    = "/fr/code/"
         [languages.fr.params]
+            lang            = "fr"
             description     = "Hugo \"Hrafven\" Bidois | Développement Full-Stack - Web - Mobile - IoT"
             selfintro       = "Développeur Full stack, Web, Mobile, IOT"
 
@@ -74,7 +77,6 @@ googleAnalytics     = "UA-121209544-1"
     extracssfiles           = [ "/css/override.css" ]
     faviconfile             = "img/favicon.ico"
     github                  = "//github.com/Hrafven"
-    lang                    = "en"
     highlightjs             = true
     highlightjslanguages    = ["lisp"]
     highlightjsStyle        = "googlecode"
