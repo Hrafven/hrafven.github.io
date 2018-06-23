@@ -9,7 +9,6 @@ theme               = "cocoa"
 author              = "Hugo \"Hrafven\" Bidois"
 title               = "Hugo \"Hrafven\" Bidois"
 pygmentsuseclasses  = true
-disqusshortname     = "hrafven"
 pluralizelisttitles = false
 googleAnalytics     = "UA-121209544-1"
 
@@ -19,6 +18,7 @@ googleAnalytics     = "UA-121209544-1"
 [languages]
 
     [languages.en]
+        disqusshortname     = "hrafven"
         [[languages.en.menu.main]]
             name                   = "Blog"
             weight                 = -120
@@ -40,6 +40,7 @@ googleAnalytics     = "UA-121209544-1"
             description             = "Hugo \"Hrafven\" Bidois | Full-Stack development - Web - Mobile - IoT"
             selfintro               = "Full stack developer, Web, Mobile, IOT"
     [languages.fr]
+        disqusshortname     = "hrafvenfr"
         [[languages.fr.menu.main]]
             name                   = "Blog"
             weight                 = -120
