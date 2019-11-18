@@ -18,63 +18,18 @@
   </url>
   
   <url>
-    <loc>https://hrafven.github.io/code/hello_world/</loc>
-    <lastmod>2018-06-22T00:12:43+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://hrafven.github.io/fr/code/hello_world/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hrafven.github.io/code/hello_world/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://hrafven.github.io/blog/welcome/</loc>
-    <lastmod>2018-06-22T00:03:09+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://hrafven.github.io/fr/blog/bienvenue/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hrafven.github.io/blog/welcome/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://hrafven.github.io/blog/</loc>
-    <lastmod>2018-06-22T00:03:09+02:00</lastmod>
+    <loc>https://hrafven.github.io/</loc>
+    <lastmod>2018-06-22T22:04:00+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hrafven.github.io/fr/blog/"
+                href="https://hrafven.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hrafven.github.io/blog/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://hrafven.github.io/categories/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://hrafven.github.io/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hrafven.github.io/categories/"
+                href="https://hrafven.github.io/"
                 />
   </url>
   
@@ -95,18 +50,63 @@
   </url>
   
   <url>
-    <loc>https://hrafven.github.io/</loc>
-    <lastmod>2018-06-22T22:04:00+02:00</lastmod>
-    <priority>0</priority>
+    <loc>https://hrafven.github.io/code/hello_world/</loc>
+    <lastmod>2018-06-22T00:12:43+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hrafven.github.io/fr/"
+                href="https://hrafven.github.io/fr/code/hello_world/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hrafven.github.io/"
+                href="https://hrafven.github.io/code/hello_world/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hrafven.github.io/blog/</loc>
+    <lastmod>2018-06-22T00:03:09+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://hrafven.github.io/fr/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hrafven.github.io/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hrafven.github.io/blog/welcome/</loc>
+    <lastmod>2018-06-22T00:03:09+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://hrafven.github.io/fr/blog/bienvenue/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hrafven.github.io/blog/welcome/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hrafven.github.io/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://hrafven.github.io/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hrafven.github.io/categories/"
                 />
   </url>
   

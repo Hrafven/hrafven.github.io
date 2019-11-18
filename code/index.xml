@@ -18,8 +18,8 @@
       
       <guid>https://hrafven.github.io/code/hello_world/</guid>
       <description>One of the most famous piece of code used to introduce novice to programming languages
-The first known version of the program written by Brian Kernighan is found in a tutorial to the language B
-main(){ extrn a,b,c; putchar(a); putchar(b); putchar(c); putchar(&#39;!*n&#39;); } a &#39;hell&#39;; b &#39;o, w&#39;; c &#39;orld&#39;;  Followed by its language C version
+The first known version of the program written by Brian Kernighan is found in a tutorial to the B language
+main(){ extrn a,b,c; putchar(a); putchar(b); putchar(c); putchar(&#39;!*n&#39;); } a &#39;hell&#39;; b &#39;o, w&#39;; c &#39;orld&#39;;  Followed by its C language version
 #include &amp;lt;stdio.h&amp;gt; main( ) { printf(&amp;quot;hello, world\n&amp;quot;); }  And written in the same language as the universe (Source)</description>
     </item>
     

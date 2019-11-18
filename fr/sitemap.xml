@@ -3,6 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hrafven.github.io/fr/</loc>
+    <lastmod>2018-06-22T22:04:00+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hrafven.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://hrafven.github.io/fr/"
+                />
+  </url>
+  
+  <url>
     <loc>https://hrafven.github.io/fr/about/</loc>
     <lastmod>2018-06-22T22:04:00+02:00</lastmod>
     <xhtml:link
@@ -14,6 +30,22 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://hrafven.github.io/fr/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://hrafven.github.io/fr/code/</loc>
+    <lastmod>2018-06-22T00:12:43+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hrafven.github.io/code/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://hrafven.github.io/fr/code/"
                 />
   </url>
   
@@ -75,38 +107,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://hrafven.github.io/fr/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://hrafven.github.io/fr/code/</loc>
-    <lastmod>2018-06-22T00:12:43+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hrafven.github.io/code/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://hrafven.github.io/fr/code/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://hrafven.github.io/fr/</loc>
-    <lastmod>2018-06-22T22:04:00+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hrafven.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://hrafven.github.io/fr/"
                 />
   </url>
   

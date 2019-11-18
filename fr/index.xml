@@ -28,10 +28,10 @@ Les commentaires hors sujet seront supprimés</description>
       <pubDate>Fri, 22 Jun 2018 00:12:43 +0200</pubDate>
       
       <guid>https://hrafven.github.io/fr/code/hello_world/</guid>
-      <description>L&amp;rsquo;un des plus célèbres extraits de code utilisés pour initier les novices aux langages de programmation
-La première version connue du programme écrit par Brian Kernighan se trouve dans un tutoriel du langage B
+      <description>L&amp;rsquo;un des plus célèbres extraits de code utilisé pour initier les novices aux langages de programmation
+La première version connue du programme écrit par Brian Kernighan se trouve dans un tutoriel au langage B
 main(){ extrn a,b,c; putchar(a); putchar(b); putchar(c); putchar(&#39;!*n&#39;); } a &#39;hell&#39;; b &#39;o, w&#39;; c &#39;orld&#39;;  Suivi de sa version en langage C
-#include &amp;lt;stdio.h&amp;gt; main( ) { printf(&amp;quot;hello, world\n&amp;quot;); }  Et écrit dans la même langage que l&amp;rsquo;univers (Source)</description>
+#include &amp;lt;stdio.h&amp;gt; main( ) { printf(&amp;quot;hello, world\n&amp;quot;); }  Et écrit dans le même langage que l&amp;rsquo;univers (Source)</description>
     </item>
     
     <item>
@@ -41,8 +41,8 @@ main(){ extrn a,b,c; putchar(a); putchar(b); putchar(c); putchar(&#39;!*n&#39;);
       
       <guid>https://hrafven.github.io/fr/blog/bienvenue/</guid>
       <description>Bonjour, je m&amp;rsquo;appelle Hugo Bidois, alias &amp;ldquo;Hrafven&amp;rdquo;.
-Je suis un développeur de stack complet dans les technologies web, mobile et iot.
-Sur mon site web, vous trouverez des articles sur les technologies, les langages de programmation et les projets sur lesquels je travaille. Vous trouverez également des morceaux de code intéressants avec leur analyse dans la section CODE.
+Je suis un développeur de full-stack dans les technologies web, mobile et iot.
+Sur mon site web, vous trouverez des articles sur les technologies, les langages de programmation et les projets sur lesquels je travaille. Vous trouverez également des extraits de code intéressants avec leur analyse dans la section CODE.
 La coutume veut que le premier morceau de code écrit soit un programme hello world.</description>
     </item>
     
