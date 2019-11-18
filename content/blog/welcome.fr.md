@@ -6,7 +6,7 @@ draft: false
 
 Bonjour, je m'appelle Hugo Bidois, alias "Hrafven".
 
-Je suis un développeur de full-stack dans les technologies web, mobile et iot.
+Je suis un développeur full-stack dans les technologies web, mobile et iot.
 
 Sur mon site web, vous trouverez des articles sur les technologies, les langages de programmation et les projets sur lesquels je travaille.
 Vous trouverez également des extraits de code intéressants avec leur analyse dans la section [CODE](/fr/code/).
